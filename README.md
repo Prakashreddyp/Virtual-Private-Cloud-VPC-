@@ -42,4 +42,4 @@ Resilient routing	Ensures service remains accessible over internet
 •	Implement auto-scaling groups for high availability of front-end instances.
 •	Integrate CloudWatch alarms, ELBs, and health checks for resilient operations.
 
-<img width="468" height="658" alt="image" src="https://github.com/user-attachments/assets/d034db6f-9d92-47a3-a7e1-83a2deaccf4f" />
+
