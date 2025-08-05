@@ -1,4 +1,4 @@
-# Virtual-Private-Cloud-VPC-
+# Creation of Virtual-Private-Cloud-VPC
 
 ## Overview
 This guide walks through the setup of a Virtual Private Cloud (VPC), including public subnet configuration, Internet Gateway, route tables, security groups, and launching EC2 instances—providing the foundation for AWS network architecture.
